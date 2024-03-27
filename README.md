@@ -1,2 +1,1 @@
-# Migthy Ducks Hockey League
-# rededcf
+# Migthy Ducks Hockey League 
